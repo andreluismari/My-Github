@@ -13,4 +13,14 @@
 
 ##### No pull request é uma solicitação de atualização...
 
+##### git clone [URL]: Faz uma cópia (clone) de um repositório remoto para o seu computador local.
+
+##### git branch: Mostra todas as branches existentes no repositório. Para criar uma nova branch, você pode usar git branch [nome-da-branch].
+
+##### git checkout [branch]: Muda para a branch especificada. Você também pode criar e mudar para uma nova branch ao mesmo tempo usando git checkout -b [nome-da-branch].
+
+##### git stash: Salva temporariamente todas as modificações no diretório de trabalho para que você possa trabalhar em outra coisa sem perder suas mudanças. Para aplicar as mudanças novamente, use git stash pop.
+
+##### git clean: Remove arquivos não rastreados do diretório de trabalho. Use git clean -f para forçar a remoção.
+
 
